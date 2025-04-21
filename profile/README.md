@@ -78,3 +78,25 @@ Este projeto é desenvolvido como parte de uma parceria acadêmica e está dispo
 ---
 
 *Atualizado em: 21/04/2025*
+
+<br>
+<p align="center">Junte-se à nossa <a href="https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">Organização no GitHub :octocat:</a> e continue contribuindo para nosso Software de Código Aberto ✨</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><strong>Conecte-se Conosco</strong></p>
+<p align="center"> 
+<a href=""><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+&nbsp;
+<a href=""><img alt="discord_logo" 
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
+&nbsp;
+<a href=""><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+&nbsp;
+<a href=""><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href=""><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+&nbsp;
+<a href=""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+&nbsp;
+<a href=""><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+</p>
+<a href="https://github.com/LTD-2025-1-Cyber-Security-Project/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" target="_blank"><img src="https://user-images.githubusercontent.com/62628408/147912042-4388b29f-70d1-4928-a336-c9ea3cd991e6.png" alt="imagem de boas-vindas da comunidade"></a>
