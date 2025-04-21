@@ -20,12 +20,12 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Criação de templates automáticos de e-mail | | |
 | Criação de documentos com IA (currículos, ofícios, textos oficiais) | | |
 
-### 3. Transparência e Automação para a Prefeitura
+### 3. LTD e Automação para a Prefeitura
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Projeto com foco em Transparência Digital | | |
-| Laboratório de Transparência Digital | | |
-| Criação de páginas com dados (Portal da Transparência, LRF) | | |
+| Projeto com foco em LTD | | |
+| Laboratório de LTD | | |
+| Criação de páginas com dados (Portal da LTD, LRF) | | |
 | Geração de documentos automáticos (ofícios, relatórios) | | |
 | Análise e cruzamento de dados públicos | | |
 | Geração de gráficos temáticos para prestação de contas | | |
@@ -54,7 +54,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Parceria com a Prefeitura | | |
 | Criação de repositório (ex: GitHub, Vercel, Netlify) | | |
 | Plataforma para centralizar os dashboards e sistemas | | |
-| Página pública de transparência com dados reais | | |
+| Página pública de LTD com dados reais | | |
 
 ## Como Contribuir
 
