@@ -1,6 +1,6 @@
-# Projeto de Laboratorio de Transformacao Digital - LTD
+# Projeto do Laboratorio de Transformacao Digital - LTD
 
-Este repositório contém o plano de trabalho para o Projeto de Transparência e Inovação Digital, uma parceria entre a Universidade e a Prefeitura.
+Este repositório contém o plano de trabalho para o Projeto do Laboratorio de Transformacao Digital, uma parceria entre a Universidade e a Prefeitura.
 
 ## Áreas de Atuação
 
