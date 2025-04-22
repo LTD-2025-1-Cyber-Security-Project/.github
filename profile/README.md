@@ -15,26 +15,26 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 ### 2. Criação de Ferramentas com IA
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | | |
+| Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | |✅|
 | Criação de robôs (RPA) para automação | | |
-| Criação de templates automáticos de e-mail | | |
+| Criação de templates automáticos de e-mail | |✅|
 | Criação de documentos com IA (currículos, ofícios, textos oficiais) | | |
 
 ### 3. LTD e Automação para a Prefeitura
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Projeto com foco em LTD | | |
-| Laboratório de LTD | | |
+| Projeto com foco em LTD | |✅|
+| Laboratório de LTD | |✅|
 | Criação de páginas com dados (Portal da LTD, LRF) | | |
-| Geração de documentos automáticos (ofícios, relatórios) | | |
+| Geração de documentos automáticos (ofícios, relatórios) | |✅|
 | Análise e cruzamento de dados públicos | | |
 | Geração de gráficos temáticos para prestação de contas | | |
 
 ### 4. Segurança da Informação
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Desenvolvimento de Checklists de Segurança (funcionários e TI) | | |
-| Baseado nas normas ISO 27001 / 27002 / 27005 | | |
+| Desenvolvimento de Checklists de Segurança (funcionários e TI) | |✅|
+| Baseado nas normas ISO 27001 / 27002 / 27005 | |✅|
 | Pesquisa sobre práticas seguras na prefeitura | | |
 | Treinamento sobre boas práticas digitais | | |
 | Ferramenta de autoavaliação de segurança | | |
@@ -44,15 +44,15 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 |--------|-------------|--------|
 | Criação de curso ou guia sobre IA para servidores | | |
 | Curso com ChatGPT e ferramentas práticas | | |
-| Simulações: Atendimento, Geração de Texto, Currículo, Ofício | | |
-| Atividades em grupo: criação de bots e sistemas simples | | |
+| Simulações: Atendimento, Geração de Texto, Currículo, Ofício | |✅|
+| Atividades em grupo: criação de bots e sistemas simples | |✅|
 
 ### 6. Projeto Acadêmico
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
 | Projeto de Extensão Universitária | | |
-| Parceria com a Prefeitura | | |
-| Criação de repositório (ex: GitHub, Vercel, Netlify) | | |
+| Parceria com a Prefeitura | |✅|
+| Criação de repositório (ex: GitHub, Vercel, Netlify) | |✅|
 | Plataforma para centralizar os dashboards e sistemas | | |
 | Página pública de LTD com dados reais | | |
 
