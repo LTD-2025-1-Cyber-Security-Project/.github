@@ -9,7 +9,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 |--------|-------------|--------|
 | Estudo dos 5 Vs do Big Data (Volume, Velocidade, Variedade, Veracidade, Valor) | | |
 | Compreensão de Petabytes e ferramentas | | |
-| Análise de Dados com Power BI ou Dashboards | | |
+| Análise de Dados com Power BI ou Dashboards | |🔄|
 | Criação de Dashboards temáticos (dados da prefeitura) | | |
 
 ### 2. Criação de Ferramentas com IA
@@ -18,7 +18,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | |✅|
 | Criação de robôs (RPA) para automação | | |
 | Criação de templates automáticos de e-mail | |✅|
-| Criação de documentos com IA (currículos, ofícios, textos oficiais) | | |
+| Criação de documentos com IA (currículos, ofícios, textos oficiais) | |🔄|
 
 ### 3. LTD e Automação para a Prefeitura
 | Tarefa | Responsável | Status |
@@ -36,7 +36,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Desenvolvimento de Checklists de Segurança (funcionários e TI) | |✅|
 | Baseado nas normas ISO 27001 / 27002 / 27005 | |✅|
 | Pesquisa sobre práticas seguras na prefeitura | | |
-| Treinamento sobre boas práticas digitais | | |
+| Treinamento sobre boas práticas digitais | |🔄|
 | Ferramenta de autoavaliação de segurança | | |
 
 ### 5. Aplicações e Capacitações com IA
@@ -53,7 +53,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Projeto de Extensão Universitária | | |
 | Parceria com a Prefeitura | |✅|
 | Criação de repositório (ex: GitHub, Vercel, Netlify) | |✅|
-| Plataforma para centralizar os dashboards e sistemas | | |
+| Plataforma para centralizar os dashboards e sistemas | |🔄|
 | Página pública de LTD com dados reais | | |
 
 ## Como Contribuir
