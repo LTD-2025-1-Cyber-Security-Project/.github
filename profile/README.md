@@ -54,7 +54,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Parceria com a Prefeitura | |✅|
 | Criação de repositório (ex: GitHub, Vercel, Netlify) | |✅|
 | Plataforma para centralizar os dashboards e sistemas | |🔄|
-| Página pública de LTD com dados reais | | |
+| Página pública de LTD com dados reais | |✅|
 
 ## Como Contribuir
 
