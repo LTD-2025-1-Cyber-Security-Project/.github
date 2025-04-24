@@ -43,7 +43,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
 | Criação de curso ou guia sobre IA para servidores | |✅|
-| Curso com ChatGPT e ferramentas práticas | |🔄|
+| Curso com ChatGPT e ferramentas práticas | |✅|
 | Simulações: Atendimento, Geração de Texto, Currículo, Ofício | |✅|
 | Atividades em grupo: criação de bots e sistemas simples | |✅|
 
