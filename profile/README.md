@@ -35,22 +35,22 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 |--------|-------------|--------|
 | Desenvolvimento de Checklists de Segurança (funcionários e TI) | |✅|
 | Baseado nas normas ISO 27001 / 27002 / 27005 | |✅|
-| Pesquisa sobre práticas seguras na prefeitura | | |
+| Pesquisa sobre práticas seguras na prefeitura | |✅|
 | Treinamento sobre boas práticas digitais | |🔄|
 | Ferramenta de autoavaliação de segurança | | |
 
 ### 5. Aplicações e Capacitações com IA
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Criação de curso ou guia sobre IA para servidores | | |
-| Curso com ChatGPT e ferramentas práticas | | |
+| Criação de curso ou guia sobre IA para servidores | |✅|
+| Curso com ChatGPT e ferramentas práticas | |🔄|
 | Simulações: Atendimento, Geração de Texto, Currículo, Ofício | |✅|
 | Atividades em grupo: criação de bots e sistemas simples | |✅|
 
 ### 6. Projeto Acadêmico
 | Tarefa | Responsável | Status |
 |--------|-------------|--------|
-| Projeto de Extensão Universitária | | |
+| Projeto de Extensão Universitária | |✅|
 | Parceria com a Prefeitura | |✅|
 | Criação de repositório (ex: GitHub, Vercel, Netlify) | |✅|
 | Plataforma para centralizar os dashboards e sistemas | |🔄|
