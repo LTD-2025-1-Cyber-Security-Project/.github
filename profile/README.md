@@ -18,7 +18,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | |✅|
 | Criação de robôs (RPA) para automação | | |
 | Criação de templates automáticos de e-mail | |✅|
-| Criação de documentos com IA (currículos, ofícios, textos oficiais) | |🔄|
+| Criação de documentos com IA (currículos, ofícios, textos oficiais) | |✅|
 
 ### 3. LTD e Automação para a Prefeitura
 | Tarefa | Responsável | Status |
@@ -37,7 +37,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Baseado nas normas ISO 27001 / 27002 / 27005 | |✅|
 | Pesquisa sobre práticas seguras na prefeitura | |✅|
 | Treinamento sobre boas práticas digitais | |🔄|
-| Ferramenta de autoavaliação de segurança | | |
+| Ferramenta de autoavaliação de segurança | |✅|
 
 ### 5. Aplicações e Capacitações com IA
 | Tarefa | Responsável | Status |
