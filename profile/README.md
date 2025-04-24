@@ -10,7 +10,7 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratorio de T
 | Estudo dos 5 Vs do Big Data (Volume, Velocidade, Variedade, Veracidade, Valor) | | |
 | Compreensão de Petabytes e ferramentas | | |
 | Análise de Dados com Power BI ou Dashboards | |🔄|
-| Criação de Dashboards temáticos (dados da prefeitura) | | |
+| Criação de Dashboards temáticos (dados da prefeitura) | |🔄|
 
 ### 2. Criação de Ferramentas com IA
 | Tarefa | Responsável | Status |
