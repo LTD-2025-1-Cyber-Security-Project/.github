@@ -10,6 +10,12 @@
 
 Este repositório contém o plano de trabalho para o Projeto do Laboratório de Transformação Digital (LTD), uma parceria estratégica entre a Universidade e a Prefeitura Municipal. O projeto visa implementar soluções tecnológicas inovadoras e capacitar servidores públicos em tecnologias emergentes.
 
+## 🖥 &nbsp;Repositórios Principais
+
+[![Análise de Dados](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=analise-de-dados&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/analise-de-dados) &nbsp; [![Desenvolvimento](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=desenvolvimento&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/desenvolvimento)
+
+[![Inteligência Artificial](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=inteligencia-artificial&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/inteligencia-artificial) &nbsp; [![Ciber Segurança](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=ciber-seguranca&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/ciber-seguranca)
+
 ---
 
 # 📊 Áreas de Atuação - Organizado por Status
