@@ -102,6 +102,79 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
 - [ ] Fase de Implementação: Não iniciada
 - [ ] Fase de Avaliação: Não iniciada
 
+## 👥 Equipe LTD
+
+<div align="center">
+  
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/estevam5s">
+        <img src="https://github.com/estevam5s.png" width="100px;" alt="estevam5s"/><br />
+        <sub><b>Estevam</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cordeirotelecom">
+        <img src="https://github.com/cordeirotelecom.png" width="100px;" alt="cordeirotelecom"/><br />
+        <sub><b>Cordeiro</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GusmaoGA">
+        <img src="https://github.com/GusmaoGA.png" width="100px;" alt="GusmaoGA"/><br />
+        <sub><b>Gusmão</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Raischmitt">
+        <img src="https://github.com/Raischmitt.png" width="100px;" alt="Raischmitt"/><br />
+        <sub><b>Raischmitt</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ARESHAmohanad">
+        <img src="https://github.com/ARESHAmohanad.png" width="100px;" alt="ARESHAmohanad"/><br />
+        <sub><b>ARESHA</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucasmarianooo">
+        <img src="https://github.com/lucasmarianooo.png" width="100px;" alt="lucasmarianooo"/><br />
+        <sub><b>Lucas</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/llcolombi">
+        <img src="https://github.com/llcolombi.png" width="100px;" alt="llcolombi"/><br />
+        <sub><b>Colombi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nicolasmelo05">
+        <img src="https://github.com/nicolasmelo05.png" width="100px;" alt="nicolasmelo05"/><br />
+        <sub><b>Nicolas</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enzo-Zanatta">
+        <img src="https://github.com/Enzo-Zanatta.png" width="100px;" alt="Enzo-Zanatta"/><br />
+        <sub><b>Enzo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RodrigoDDeniz">
+        <img src="https://github.com/RodrigoDDeniz.png" width="100px;" alt="RodrigoDDeniz"/><br />
+        <sub><b>Rodrigo</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📝 Métricas de Progresso
 
 ```
