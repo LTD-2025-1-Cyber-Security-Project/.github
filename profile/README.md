@@ -87,7 +87,7 @@ As tarefas do projeto são gerenciadas através de duas plataformas principais:
 
 Toda a documentação técnica do projeto está centralizada em nossa Wiki:
 
-[![Wiki do Projeto](https://img.shields.io/badge/Wiki_do_Projeto-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LTD-2025-1-Cyber-Security-Project/documentacao/wiki)
+[![Wiki do Projeto](https://img.shields.io/badge/Wiki_do_Projeto-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LTD-2025-1-Cyber-Security-Project/documentacao-tecnica/wiki)
 
 A Wiki contém guias detalhados para todas as áreas principais do projeto:
 * Cibersegurança
