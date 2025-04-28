@@ -2,59 +2,50 @@
 
 Este repositório contém o plano de trabalho para o Projeto do Laboratorio de Transformacao Digital, uma parceria entre a Universidade e a Prefeitura.
 
-## Áreas de Atuação
+# Áreas de Atuação - Organizado por Status
 
-### 1. Análise de Dados
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Estudo dos 5 Vs do Big Data (Volume, Velocidade, Variedade, Veracidade, Valor) | | |
-| Compreensão de Petabytes e ferramentas | | |
-| Análise de Dados com Power BI ou Dashboards | |🔄|
-| Criação de Dashboards temáticos (dados da prefeitura) | |🔄|
+## Tarefas Concluídas ✅
 
-### 2. Criação de Ferramentas com IA
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | |✅|
-| Criação de robôs (RPA) para automação | | |
-| Criação de templates automáticos de e-mail | |✅|
-| Criação de documentos com IA (currículos, ofícios, textos oficiais) | |✅|
+| Área | Tarefa | Responsável |
+|------|--------|-------------|
+| Criação de Ferramentas com IA | Ferramentas com IA generativa (ChatGPT, Copilot, YouBot) | |
+| Criação de Ferramentas com IA | Criação de templates automáticos de e-mail | |
+| Criação de Ferramentas com IA | Criação de documentos com IA (currículos, ofícios, textos oficiais) | |
+| LTD e Automação | Projeto com foco em LTD | |
+| LTD e Automação | Laboratório de LTD | |
+| LTD e Automação | Geração de documentos automáticos (ofícios, relatórios) | |
+| Segurança da Informação | Desenvolvimento de Checklists de Segurança (funcionários e TI) | |
+| Segurança da Informação | Baseado nas normas ISO 27001 / 27002 / 27005 | |
+| Segurança da Informação | Pesquisa sobre práticas seguras na prefeitura | |
+| Segurança da Informação | Ferramenta de autoavaliação de segurança | |
+| Aplicações e Capacitações com IA | Criação de curso ou guia sobre IA para servidores | |
+| Aplicações e Capacitações com IA | Curso com ChatGPT e ferramentas práticas | |
+| Aplicações e Capacitações com IA | Simulações: Atendimento, Geração de Texto, Currículo, Ofício | |
+| Aplicações e Capacitações com IA | Atividades em grupo: criação de bots e sistemas simples | |
+| Projeto Acadêmico | Projeto de Extensão Universitária | |
+| Projeto Acadêmico | Parceria com a Prefeitura | |
+| Projeto Acadêmico | Criação de repositório (ex: GitHub, Vercel, Netlify) | |
+| Projeto Acadêmico | Página pública de LTD com dados reais | |
 
-### 3. LTD e Automação para a Prefeitura
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Projeto com foco em LTD | |✅|
-| Laboratório de LTD | |✅|
-| Criação de páginas com dados (Portal da LTD, LRF) | | |
-| Geração de documentos automáticos (ofícios, relatórios) | |✅|
-| Análise e cruzamento de dados públicos | | |
-| Geração de gráficos temáticos para prestação de contas | | |
+## Tarefas em Andamento 🔄
 
-### 4. Segurança da Informação
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Desenvolvimento de Checklists de Segurança (funcionários e TI) | |✅|
-| Baseado nas normas ISO 27001 / 27002 / 27005 | |✅|
-| Pesquisa sobre práticas seguras na prefeitura | |✅|
-| Treinamento sobre boas práticas digitais | |🔄|
-| Ferramenta de autoavaliação de segurança | |✅|
+| Área | Tarefa | Responsável |
+|------|--------|-------------|
+| Análise de Dados | Análise de Dados com Power BI ou Dashboards | |
+| Análise de Dados | Criação de Dashboards temáticos (dados da prefeitura) | |
+| Segurança da Informação | Treinamento sobre boas práticas digitais | |
+| Projeto Acadêmico | Plataforma para centralizar os dashboards e sistemas | |
 
-### 5. Aplicações e Capacitações com IA
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Criação de curso ou guia sobre IA para servidores | |✅|
-| Curso com ChatGPT e ferramentas práticas | |✅|
-| Simulações: Atendimento, Geração de Texto, Currículo, Ofício | |✅|
-| Atividades em grupo: criação de bots e sistemas simples | |✅|
+## Tarefas Não Iniciadas ⏳
 
-### 6. Projeto Acadêmico
-| Tarefa | Responsável | Status |
-|--------|-------------|--------|
-| Projeto de Extensão Universitária | |✅|
-| Parceria com a Prefeitura | |✅|
-| Criação de repositório (ex: GitHub, Vercel, Netlify) | |✅|
-| Plataforma para centralizar os dashboards e sistemas | |🔄|
-| Página pública de LTD com dados reais | |✅|
+| Área | Tarefa | Responsável |
+|------|--------|-------------|
+| Análise de Dados | Estudo dos 5 Vs do Big Data (Volume, Velocidade, Variedade, Veracidade, Valor) | |
+| Análise de Dados | Compreensão de Petabytes e ferramentas | |
+| Criação de Ferramentas com IA | Criação de robôs (RPA) para automação | |
+| LTD e Automação | Criação de páginas com dados (Portal da LTD, LRF) | |
+| LTD e Automação | Análise e cruzamento de dados públicos | |
+| LTD e Automação | Geração de gráficos temáticos para prestação de contas | |
 
 ## Como Contribuir
 
