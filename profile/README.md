@@ -73,6 +73,28 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratório de 
 4. Desenvolva a tarefa designada seguindo as diretrizes do projeto
 5. Envie um Pull Request com suas contribuições para avaliação
 
+### 📊 Gerenciamento de Tarefas
+
+As tarefas do projeto são gerenciadas através de duas plataformas principais:
+
+[![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/LTD-2025-1-Cyber-Security-Project/projects/3)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://ltd-alunos-2025.atlassian.net/jira/core/projects/LTD/board?groupBy=status)
+
+* **GitHub Projects**: Acompanhamento de issues, melhorias e correções de bugs
+* **Jira**: Gerenciamento de sprints, histórias de usuário e fluxo de desenvolvimento ágil
+
+### 📚 Documentação Técnica
+
+Toda a documentação técnica do projeto está centralizada em nossa Wiki:
+
+[![Wiki do Projeto](https://img.shields.io/badge/Wiki_do_Projeto-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LTD-2025-1-Cyber-Security-Project/documentacao/wiki)
+
+A Wiki contém guias detalhados para todas as áreas principais do projeto:
+* Cibersegurança
+* Análise de Dados
+* Inteligência Artificial
+* Desenvolvimento de Software
+
 ## 📈 Status do Projeto
 
 - [x] Fase de Planejamento: Concluída
