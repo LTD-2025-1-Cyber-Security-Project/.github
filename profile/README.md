@@ -108,14 +108,11 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<a href="https://github.com/estevam5s">
-  <img src="https://contrib.rocks/image?repo=estevam5s/estevam5s" />
-</a>
 <a href="https://github.com/cordeirotelecom">
   <img src="https://contrib.rocks/image?repo=cordeirotelecom/cordeirotelecom" />
 </a>
-<a href="https://github.com/ARESHAmohanad">
-  <img src="https://contrib.rocks/image?repo=ARESHAmohanad/ARESHAmohanad" />
+<a href="https://github.com/estevam5s">
+  <img src="https://contrib.rocks/image?repo=estevam5s/estevam5s" />
 </a>
 <a href="https://github.com/GusmaoGA">
   <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
@@ -123,8 +120,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <a href="https://github.com/Raischmitt">
   <img src="https://contrib.rocks/image?repo=Raischmitt/yelpCamp" />
 </a>
-<a href="https://github.com/anabiancaa">
-  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+<a href="https://github.com/ARESHAmohanad">
+  <img src="https://contrib.rocks/image?repo=ARESHAmohanad/ARESHAmohanad" />
 </a>
 <a href="https://github.com/lucasmarianooo">
   <img src="https://contrib.rocks/image?repo=lucasmarianooo/listaexercicios_javascript" />
@@ -133,17 +130,21 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <img src="https://contrib.rocks/image?repo=llcolombi/colombi" />
 </a>
 <a href="https://github.com/nicolasmelo05">
-  <img src="https://contrib.rocks/image?repo=nicolasmelo05/trabalhohtml" />
-</a>
-<a href="https://github.com/Enzo-Zanatta">
-  <img src="https://contrib.rocks/image?repo=Enzo-Zanatta/Trabalho-HTML-Estacio" />
-</a>
-<a href="https://github.com/RodrigoDDeniz">
   <img src="https://contrib.rocks/image?repo=RodrigoDDeniz/trabalho-html" />
 </a>
 <a href="https://github.com/hectoravilar">
   <img src="https://contrib.rocks/image?repo=hectoravilar/siteshtml" />
 </a>
+<a href="https://github.com/Enzo-Zanatta">
+  <img src="https://contrib.rocks/image?repo=Enzo-Zanatta/Trabalho-HTML-Estacio" />
+</a>
+<a href="https://github.com/anabiancaa">
+  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+</a>
+<a href="https://github.com/RodrigoDDeniz">
+  <img src="https://contrib.rocks/image?repo=RodrigoDDeniz/trabalho-html" />
+</a>
+
 
 ## 📝 Métricas de Progresso
 
