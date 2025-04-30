@@ -174,7 +174,7 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
     </td>
     <td align="center">
       <a href="https://github.com/hectoravilar">
-        <img src="https://github.com/hectoravilar.png" width="100px;" alt="estevam5s"/><br />
+        <img src="https://github.com/hectoravilar.png" width="100px;" alt="hectoravilar"/><br />
         <sub><b>Estevam</b></sub>
       </a>
     </td>
