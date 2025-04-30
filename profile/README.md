@@ -114,6 +114,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <a href="https://github.com/estevam5s">
   <img src="https://contrib.rocks/image?repo=estevam5s/estevam5s" />
 </a>
+<a href="https://github.com/Jpgomes03">
+  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+</a>
 <a href="https://github.com/GusmaoGA">
   <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
 </a>
