@@ -172,6 +172,12 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
         <sub><b>Rodrigo</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/hectoravilar">
+        <img src="https://github.com/hectoravilar.png" width="100px;" alt="estevam5s"/><br />
+        <sub><b>Estevam</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
