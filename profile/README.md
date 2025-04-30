@@ -105,87 +105,45 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
 ## 👥 Equipe LTD
 
 <div align="center">
-  
-</div>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/estevam5s">
-        <img src="https://github.com/estevam5s.png" width="100px;" alt="estevam5s"/><br />
-        <sub><b>Estevam</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cordeirotelecom">
-        <img src="https://github.com/cordeirotelecom.png" width="100px;" alt="cordeirotelecom"/><br />
-        <sub><b>Cordeiro</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GusmaoGA">
-        <img src="https://github.com/GusmaoGA.png" width="100px;" alt="GusmaoGA"/><br />
-        <sub><b>Gusmão</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Raischmitt">
-        <img src="https://github.com/Raischmitt.png" width="100px;" alt="Raischmitt"/><br />
-        <sub><b>Raischmitt</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ARESHAmohanad">
-        <img src="https://github.com/ARESHAmohanad.png" width="100px;" alt="ARESHAmohanad"/><br />
-        <sub><b>ARESHA</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anabiancaa">
-        <img src="https://github.com/anabiancaa.png" width="100px;" alt="anabiancaa"/><br />
-        <sub><b>Ana Bianca</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lucasmarianooo">
-        <img src="https://github.com/lucasmarianooo.png" width="100px;" alt="lucasmarianooo"/><br />
-        <sub><b>Lucas</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/llcolombi">
-        <img src="https://github.com/llcolombi.png" width="100px;" alt="llcolombi"/><br />
-        <sub><b>Colombi</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nicolasmelo05">
-        <img src="https://github.com/nicolasmelo05.png" width="100px;" alt="nicolasmelo05"/><br />
-        <sub><b>Nicolas</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enzo-Zanatta">
-        <img src="https://github.com/Enzo-Zanatta.png" width="100px;" alt="Enzo-Zanatta"/><br />
-        <sub><b>Enzo</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RodrigoDDeniz">
-        <img src="https://github.com/RodrigoDDeniz.png" width="100px;" alt="RodrigoDDeniz"/><br />
-        <sub><b>Rodrigo</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hectoravilar">
-        <img src="https://github.com/hectoravilar.png" width="100px;" alt="hectoravilar"/><br />
-        <sub><b>Hector Avilar</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<a href="https://github.com/estevam5s">
+  <img src="https://contrib.rocks/image?repo=estevam5s/estevam5s" />
+</a>
+<a href="https://github.com/cordeirotelecom">
+  <img src="https://contrib.rocks/image?repo=cordeirotelecom/cordeirotelecom" />
+</a>
+<a href="https://github.com/ARESHAmohanad">
+  <img src="https://contrib.rocks/image?repo=ARESHAmohanad/ARESHAmohanad" />
+</a>
+<a href="https://github.com/GusmaoGA">
+  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+</a>
+<a href="https://github.com/Raischmitt">
+  <img src="https://contrib.rocks/image?repo=Raischmitt/yelpCamp" />
+</a>
+<a href="https://github.com/anabiancaa">
+  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+</a>
+<a href="https://github.com/lucasmarianooo">
+  <img src="https://contrib.rocks/image?repo=lucasmarianooo/listaexercicios_javascript" />
+</a>
+<a href="https://github.com/llcolombi">
+  <img src="https://contrib.rocks/image?repo=llcolombi/colombi" />
+</a>
+<a href="https://github.com/nicolasmelo05">
+  <img src="https://contrib.rocks/image?repo=nicolasmelo05/trabalhohtml" />
+</a>
+<a href="https://github.com/Enzo-Zanatta">
+  <img src="https://contrib.rocks/image?repo=Enzo-Zanatta/Trabalho-HTML-Estacio" />
+</a>
+<a href="https://github.com/RodrigoDDeniz">
+  <img src="https://contrib.rocks/image?repo=RodrigoDDeniz/trabalho-html" />
+</a>
+<a href="https://github.com/hectoravilar">
+  <img src="https://contrib.rocks/image?repo=hectoravilar/siteshtml" />
+</a>
 
 ## 📝 Métricas de Progresso
 
