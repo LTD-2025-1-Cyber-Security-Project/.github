@@ -140,6 +140,12 @@ A Wiki contém guias detalhados para todas as áreas principais do projeto:
         <sub><b>ARESHA</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/anabiancaa">
+        <img src="https://github.com/anabiancaa.png" width="100px;" alt="anabiancaa"/><br />
+        <sub><b>Ana Bianca</b></sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
