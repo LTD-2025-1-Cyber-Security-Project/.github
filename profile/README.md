@@ -16,6 +16,8 @@ Este repositório contém o plano de trabalho para o Projeto do Laboratório de 
 
 [![Inteligência Artificial](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=inteligencia-artificial&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/inteligencia-artificial) &nbsp; [![Ciber Segurança](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=ciber-seguranca&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/ciber-seguranca)
 
+[![React App](https://github-readme-stats.vercel.app/api/pin/?username=LTD-2025-1-Cyber-Security-Project&repo=ltd-react-app&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LTD-2025-1-Cyber-Security-Project/ltd-react-app)
+
 ---
 
 # 📊 Áreas de Atuação - Organizado por Status
