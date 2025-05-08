@@ -158,6 +158,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <a href="https://github.com/RodrigoDDeniz">
   <img src="https://contrib.rocks/image?repo=RodrigoDDeniz/trabalho-html" />
 </a>
+<a href="https://github.com/Mateuzinhosax">
+  <img src="https://contrib.rocks/image?repo=GusmaoGA/Trabalho-html-e-css" />
+</a>
 
 
 ## 📝 Métricas de Progresso
